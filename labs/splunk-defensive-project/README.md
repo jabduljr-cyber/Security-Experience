@@ -19,4 +19,3 @@ Rate limiting on the logon page, account lockout, MFA, and blocking suspicious s
 ## What I learned
 My alert thresholds were set too low compared with the real attack counts. I'd tune them using more baseline data so alerts catch attacks without firing on normal days.
 
-[Read the full report (PDF)](rekall-pentest-report.pdf)
